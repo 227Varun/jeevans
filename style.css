@@ -1,0 +1,75 @@
+body{
+    background-image: url(L.jpg);
+    background-repeat: no-repeat;
+    background-size:  100%;
+    }
+    
+    #BOX{
+    margin:auto;
+    margin-top:150px;
+    text-align:center;
+    border: 1px solid #7b92a98c;
+    border-width: 2px;
+    height: 300px;
+    width: 400px;
+    padding-bottom: 30px;
+    padding-top: 0px;
+    border-radius: 20px;
+    filter: blur(20);
+    box-shadow: 10px 10px 30px;
+    backdrop-filter: blur(2px);
+    }
+    
+    
+    .Login{
+    color:white;
+    font-size: 15px;
+    text-shadow: 600px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .main{
+     border-radius: 10px;
+     line-height:17px;
+    padding:5px;
+    font-size: 11px;
+    width: 180px;
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    outline: none;
+    
+    
+    }
+    .m{
+
+        background-color: transparent;
+        border: 2px solid white;
+        outline: none;
+        color: white;
+        font-size: 11px;
+        width: 180px;
+
+     }
+    .k{
+    color: white;
+    font-size: 12px;
+    margin-top: 20px;
+    
+    }
+    
+    ::-webkit-input-placeholder{
+    color:white;
+    }
+
+
+    #button{
+        color: black;
+        width: 180px;
+        border-radius: 20px;
+        line-height: 25px;
+        border: none;
+        font-weight: bold;    
+        
+
+    }
